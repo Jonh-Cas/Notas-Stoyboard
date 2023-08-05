@@ -2,7 +2,7 @@
 //  Home.swift
 //  Notas2
 //
-//  Created by Jorge Maldonado Borbón on 22/12/20.
+//  Created by Jonathan Casillas on 04/08/23.
 //
 
 import UIKit
